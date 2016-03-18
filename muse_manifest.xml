@@ -1,0 +1,82 @@
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://goldman.github.io/main" resolutions="1x" timestamp="1458340042044">
+  <folder name="css">
+    <file name="site_global.css" crc="303421102"/>
+    <file name="index.css" crc="43081890" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="phone>index:index"/>
+    <file name="museutils.js" crc="4190794036" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="phone>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="phone>index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index"/>
+    <file name="webpro.js" crc="488283310" ref="phone>index:index"/>
+    <file name="form_check.php" crc="430210585" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="282343929" ref="phone>index:index"/>
+    <file name="form_process.php" crc="339897355" ref="phone>index:index"/>
+    <file name="form-u1840.php" crc="4023130124" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="phone>index"/>
+    <file name="museredirect.js" crc="3985760531" ref="index"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index"/>
+    <file name="form-u3135.php" crc="65413194" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bkg_01.jpg" crc="4249309889" ref="phone>index"/>
+    <file name="speaker_01-u973-fr.png" crc="3807737923" ref="phone>index"/>
+    <file name="speaker_03-u971-fr.png" crc="4220311394" ref="phone>index"/>
+    <file name="speaker_02-u972-fr.png" crc="287574460" ref="phone>index"/>
+    <file name="gallery_03-u710-fr.png" crc="15474422" ref="phone>index"/>
+    <file name="gallery_02-u711-fr.png" crc="114773680" ref="phone>index"/>
+    <file name="gallery_01-u712-fr.png" crc="3862423621" ref="phone>index"/>
+    <file name="u1864-17.png" crc="532403934" ref="phone>index"/>
+    <file name="u1864-17-r.png" crc="235939021" ref="phone>index"/>
+    <file name="u1864-17-m.png" crc="235939021" ref="phone>index"/>
+    <file name="u1864-17-fs.png" crc="532403934" ref="phone>index"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="3898835355" ref="phone>index"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="4019589203" ref="phone>index"/>
+    <file name="checkboxchecked.jpg" crc="3760363524" ref="phone>index"/>
+    <file name="checkboxcheckedrollover.jpg" crc="3914243265" ref="phone>index"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="350609565" ref="phone>index"/>
+    <file name="screen shot 2016-02-23 at 121452 pm.jpg" crc="3916238223" seo="true" ref="index"/>
+    <file name="fullsizerender.jpg" crc="3881085542" seo="true" ref="index"/>
+    <file name="screen shot 2016-02-23 at 121333 pm.jpg" crc="3942242416" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="screen shot 2016-02-23 at 121359 pm.jpg" crc="4057267209" seo="true" ref="index"/>
+    <file name="screen shot 2016-02-23 at 121409 pm.jpg" crc="194465816" seo="true" ref="index"/>
+    <file name="screen shot 2016-02-23 at 121430 pm547x360.jpg" crc="4134485786" seo="true" ref="index"/>
+    <file name="screen shot 2016-02-23 at 121439 pm.jpg" crc="230063806" seo="true" ref="index"/>
+    <file name="screen shot 2016-02-23 at 121452 pm546x360.jpg" crc="34093260" seo="true" ref="index"/>
+    <file name="screen shot 2016-02-23 at 121521 pm-crop-u2984.jpg" crc="111482876" ref="index"/>
+    <file name="screen shot 2016-02-23 at 121540 pm-crop-u3004.jpg" crc="531826076" ref="index"/>
+    <file name="12313961_525710294269513_738727865614904026_n.jpg" crc="459216208" seo="true" ref="index"/>
+    <file name="svbjjbadge3-crop-u3059.png" crc="3916383771" ref="index"/>
+    <file name="screen shot 2016-02-23 at 121333 pm-crop-u2759.jpg" crc="504911817" ref="index"/>
+    <file name="screen shot 2016-02-23 at 121359 pm60x45.jpg" crc="4287813768" seo="true" ref="index"/>
+    <file name="screen shot 2016-02-23 at 121409 pm68x45.jpg" crc="515987590" seo="true" ref="index"/>
+    <file name="screen shot 2016-02-23 at 121430 pm69x45.jpg" crc="4202139911" seo="true" ref="index"/>
+    <file name="screen shot 2016-02-23 at 121439 pm68x45.jpg" crc="4120116222" seo="true" ref="index"/>
+    <file name="screen shot 2016-02-23 at 121452 pm69x45.jpg" crc="4064771083" seo="true" ref="index"/>
+    <file name="screen shot 2016-02-23 at 121521 pm-crop-u2990.jpg" crc="3805750608" ref="index"/>
+    <file name="screen shot 2016-02-23 at 121540 pm-crop-u3010.jpg" crc="240134841" ref="index"/>
+    <file name="12313961_525710294269513_738727865614904026_n60x45.jpg" crc="395588097" seo="true" ref="index"/>
+    <file name="svbjjbadge3-crop-u3065.png" crc="33910978" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="jobresume.jpg" crc="4013343113" seo="true" ref="index"/>
+    <file name="screen shot 2016-02-23 at 121430 pm.jpg" crc="3787434272" seo="true" ref="index"/>
+    <file name="cell_icon-300x300.png" crc="3928215040" seo="true" ref="index"/>
+    <file name="e57dc8_82402d69040b4191b0de5a745bf08655.png" crc="527011911" seo="true" ref="index"/>
+    <file name="u3151-17.png" crc="3904437901" ref="index"/>
+    <file name="u3151-17-r.png" crc="174039896" ref="index"/>
+    <file name="u3151-17-m.png" crc="4087376994" ref="index"/>
+    <file name="u3151-17-fs.png" crc="450571855" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="7129065" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3835993448" seo="true" mt="1456260247566" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3956779883" seo="true" mt="1458339480408" redirect="true"/>
+</manifest>
